@@ -1,0 +1,6 @@
+C:\Users\nikop\OneDrive\Escritorio\AppCarniceria\AdminSERMAC\AdminSERMAC\obj\Debug\AdminSERMAC.csproj.AssemblyReference.cache
+C:\Users\nikop\OneDrive\Escritorio\AppCarniceria\AdminSERMAC\AdminSERMAC\obj\Debug\AdminSERMAC.Properties.Resources.resources
+C:\Users\nikop\OneDrive\Escritorio\AppCarniceria\AdminSERMAC\AdminSERMAC\obj\Debug\AdminSERMAC.csproj.GenerateResource.cache
+C:\Users\nikop\OneDrive\Escritorio\AppCarniceria\AdminSERMAC\AdminSERMAC\obj\Debug\AdminSERMAC.csproj.CoreCompileInputs.cache
+C:\Users\nikop\OneDrive\Escritorio\AppCarniceria\AdminSERMAC\AdminSERMAC\obj\Debug\AdminSERMAC.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikop\OneDrive\Escritorio\AppCarniceria\AdminSERMAC\AdminSERMAC\obj\Debug\AdminSERMAC.exe.config
